@@ -18,4 +18,6 @@ so enter your episode starting number and hit enter
 
 it will now rename them in order it also shows a log of what it was and what it became. Ive modified it to not mix up files but its best practice to give the log a glance
 
-after that feed it the next directory or quit out. 
+after that feed it the next directory or quit out. \
+
+Enclosed are screenshots of this program. i left them as default names so you can practice on them :)
